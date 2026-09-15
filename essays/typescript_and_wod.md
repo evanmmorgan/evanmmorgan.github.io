@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "Smart Questions, Good Answers"
+# All dates must be YYYY-MM-DD format!
+date: 2026-09-10
+published: true
+labels:
+  - Questions
+  - Quizzes
+  - TypeScript
+---
+
 # Type Errors and Timers
 
 ## Coming from Java
