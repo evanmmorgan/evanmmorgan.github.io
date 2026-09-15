@@ -10,9 +10,6 @@ labels:
   - Answers
   - StackOverflow
 ---
-
-# "This isn't working"
-
 The kinds of questions we ask can entirely determine the answer we get and the level of effort the person reading the question wants to put into responding to you. I remember a time when I was initially learning how to program and I was confused on the syntax of Java, so during one of our class recitations I had asked a TA something along the lines of “This isn’t working, what do I do”. And the TA had no idea what I was talking about besides the fact that there was code on my screen and so it took some back and forth before I actually got the answer I was looking for. 
 
 Questions like these on online forums are exactly the reason why so many people’s questions go ignored. Eric Raymond created a guideline essay here “How To Ask Questions The Smart Way” on how to effectively ask questions in a way where people will want to respond to you. Instead of asking a broad question that didn’t require much thought, it’s better to ask a carefully thought out question with some signs that you actually did some research beforehand. 
