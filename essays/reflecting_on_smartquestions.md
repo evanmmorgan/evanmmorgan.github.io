@@ -6,7 +6,7 @@ Questions like these on online forums are exactly the reason why so many peopleâ
 
 # An example of a question that was asked in a smart way
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/goodanswer.png">
+[Link to Smart Question](https://stackoverflow.com/questions/80002830/casting-an-out-of-range-counter-through-double-clamps-it-to-int64-max)
 
 ```sql
 A gateway import table temporarily stores counter values as strings. One device sent 9223372036854775808, which is one greater than the maximum INT64. I expected every conversion path to reject it, but an intermediate DOUBLE cast silently changes it into a valid-looking counter in Apache IoTDB 2.0.8 table model.
@@ -28,7 +28,7 @@ This question is smart and it fulfills the precepts that are established by Raym
 
 This question was asked just a few hours ago as of the time of writing this essay. It already has received 1 reply with a solid suggestion on how to fix the person who askedâ€™s code. 
 
-![Screenshot of the Stack Overflow question](../img/smart-questions/screenshot.png)
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/goodanswer.png">
 
 # An example of a question that was NOT asked in a smart way
 
