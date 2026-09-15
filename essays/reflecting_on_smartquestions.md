@@ -6,7 +6,7 @@ Questions like these on online forums are exactly the reason why so many peopleâ
 
 # An example of a question that was asked in a smart way
 
-[sql - Casting an out-of-range counter through DOUBLE clamps it to INT64 max - Stack Overflow](https://stackoverflow.com/questions/80002830/casting-an-out-of-range-counter-through-double-clamps-it-to-int64-max) 
+[Smart Question](https://stackoverflow.com/questions/80002830/casting-an-out-of-range-counter-through-double-clamps-it-to-int64-max) 
 
 ```sql
 A gateway import table temporarily stores counter values as strings. One device sent 9223372036854775808, which is one greater than the maximum INT64. I expected every conversion path to reject it, but an intermediate DOUBLE cast silently changes it into a valid-looking counter in Apache IoTDB 2.0.8 table model.
@@ -32,6 +32,7 @@ This question was asked just a few hours ago as of the time of writing this essa
 
 # An example of a question that was NOT asked in a smart way
 
+[Not smart question](https://stackoverflow.com/questions/80002798/unexpected-exit-of-echoserver-exe-from-wolfssl-running-on-windows)
 ```c
 Unexpected exit of echoserver.exe from wolfssl running on windows - Stack Overflow 
 
