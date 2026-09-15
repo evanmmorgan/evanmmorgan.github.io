@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "Smart Questions, Good Answers"
+# All dates must be YYYY-MM-DD format!
+date: 2026-09-10
+published: true
+labels:
+  - Questions
+  - Answers
+  - StackOverflow
+---
+
 # "This isn't working"
 
 The kinds of questions we ask can entirely determine the answer we get and the level of effort the person reading the question wants to put into responding to you. I remember a time when I was initially learning how to program and I was confused on the syntax of Java, so during one of our class recitations I had asked a TA something along the lines of “This isn’t working, what do I do”. And the TA had no idea what I was talking about besides the fact that there was code on my screen and so it took some back and forth before I actually got the answer I was looking for. 
