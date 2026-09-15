@@ -28,7 +28,7 @@ This question is smart and it fulfills the precepts that are established by Raym
 
 This question was asked just a few hours ago as of the time of writing this essay. It already has received 1 reply with a solid suggestion on how to fix the person who asked’s code. 
 
-![Answer to question](images/goodanswer.pnggoodanswer.png)//insert image here
+![Screenshot of the Stack Overflow question](../img/smart-questions/screenshot.png)
 
 # An example of a question that was NOT asked in a smart way
 
