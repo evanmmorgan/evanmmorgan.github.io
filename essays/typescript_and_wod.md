@@ -12,7 +12,7 @@ I think that some of the attributes of TypeScript are very useful like type anno
 let city: string = 5;
 // Error: Type 'number' is not assignable to type 'string'.
 ```
-![Editor flagging a number assigned to a string variable](images/error.png)
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/error.png">
 
 The ES6 features like let/const replacing var also felt useful because using const stops you from accidentally reassigning a variable. Another great feature is type inference. For very basic variable definitions, like an increment variable, we don’t need to explicitly mention it is a number. Something like: 
 
