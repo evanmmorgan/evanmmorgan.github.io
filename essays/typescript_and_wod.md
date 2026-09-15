@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Type Errors and Timers"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-10
 published: true
@@ -10,9 +10,6 @@ labels:
   - Quizzes
   - TypeScript
 ---
-
-# Type Errors and Timers
-
 ## Coming from Java
 
 Before taking ICS 314, I had never touched JavaScript or TypeScript. In my previous classes we used Java to learn basic data types and structures, C for low-level programming, and Python for its simplicity and its ability to pull from outside libraries for quick projects. As we began learning JavaScript, then TypeScript, it felt a little odd transitioning over for the first week. By the end TypeScript was flagging errors before I ran anything which is the same kind of error checking I relied on in Java.
