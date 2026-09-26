@@ -48,6 +48,6 @@ Over the past couple weeks of learning JavaScript and TypeScript, the more progr
 
 Overall, coding standards are an important aspect if not the most important aspect of programming because it creates a guideline for developers to follow and make sure their code is correctly abiding by these rules. Not only does it make it easier for programmers to read each other's code, the standards help new programmers like me learn the language faster because by having to follow strict rules, we are required to have an understanding of what is and isn’t acceptable when it comes to following the rules.
 
-# Use of AI
+## Use of AI
 
 I used Claude code to outline this essay. All content and ideas are my own.
