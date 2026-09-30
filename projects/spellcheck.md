@@ -18,6 +18,5 @@ Spellcheck is a roguelike dungeon crawler adventure game I developed with a team
 In the game you use your spelling skills to cast spells and defeat the evil headmaster. (pun is intended)
 
 Here is a trailer I made for the project. It is also available on the game's website.
-<video width="640" height="360"  controls>
-  <source src="https://charming-squirrel-cc2ef2.netlify.app/EXPLORE%20THE%20SCHOOL.mp4" type="video/mp4">
-</video>
+
+[![Watch the trailer](../img/spellcheck/spellcheck_title.png)](https://charming-squirrel-cc2ef2.netlify.app/EXPLORE%20THE%20SCHOOL.mp4)
