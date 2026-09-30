@@ -19,4 +19,4 @@ In the game you use your spelling skills to cast spells and defeat the evil head
 
 Here is a trailer I made for the project. It is also available on the game's website.
 
-<iframe width="640" height="360" src="https://charming-squirrel-cc2ef2.netlify.app/EXPLORE%20THE%20SCHOOL.mp4" frameborder="0"></iframe>
+[Watch the trailer](https://charming-squirrel-cc2ef2.netlify.app/EXPLORE%20THE%20SCHOOL.mp4)
