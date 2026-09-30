@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/spellcheck/spellcheck_square.png
 title: "Spellcheck"
 date: 2026
 published: true
