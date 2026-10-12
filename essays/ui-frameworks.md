@@ -11,9 +11,11 @@ labels:
   - UI Frameworks
 ---
 
-<img width="600px" class="rounded" src="../img/ui-frameworks/with-without-bootstrap.png" alt="The same page built with plain HTML and CSS (left) and with Bootstrap 5 (right)">
+<img width="600px" class="rounded" src="../img/ui-frameworks/browser_history.png" alt="A page that was built with plain HTML and CSS (left) and with Bootstrap 5 (right)">
 
-*The same page built twice: plain HTML and CSS on the left, Bootstrap 5 on the right.*
+<img width="600px" class="rounded" src="../img/ui-frameworks/apple_clone.png">
+
+*2 different pages I made for in class assignments. One is an apple website clone made with Bootstrap 5; the other browser history site uses plain HTML and CSS*
 
 ## The first hour is miserable
 
